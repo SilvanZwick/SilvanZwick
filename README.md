@@ -1,7 +1,8 @@
 ## Hi there 👋
-### <img width="24" alt="image" src="https://github.com/user-attachments/assets/e5c752e4-6590-496d-855d-7545a1579b86"> I'm Silvan, a 10-year-old programmer with a passion for coding, computers, and old technology.
-- 😺 I'm currently working on [SilvanZwick/xWatchOS](https://github.com/SilvanZwick/xWatchOS) along with my dad, [@dandean](https://github.com/dandean).
+### <img width="24" alt="image" src="https://github.com/user-attachments/assets/e5c752e4-6590-496d-855d-7545a1579b86"> Hi, I'm Silvan, a 10-year-old programmer with a passion for coding, computers, and old technology.
+- 😺 I'm currently working on [SilvanZwick/xWatchOS](https://github.com/SilvanZwick/xWatchOS) along with [@dandean](https://github.com/dandean).
 - 🧑 My pronouns are he/him.
+- 🔗 Visit me on the Web at: [www.silvanzwick.com](https://silvanzwick.com)
 
 <!--
 **SilvanZwick/SilvanZwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
