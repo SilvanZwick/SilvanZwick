@@ -1,8 +1,12 @@
 ## Hi there 👋
-### <img width="24" alt="image" src="https://github.com/user-attachments/assets/e5c752e4-6590-496d-855d-7545a1579b86"> Hi, I'm Silvan, a 10-year-old programmer with a passion for coding, computers, and old technology.
-- 😺 I'm currently working on [SilvanZwick/xWatchOS](https://github.com/SilvanZwick/xWatchOS) along with [@dandean](https://github.com/dandean).
-- 🧑 My pronouns are he/him.
-- 🔗 Visit me on the Web at: [www.silvanzwick.com](https://silvanzwick.com)
+### <img width="24" alt="image" src="https://github.com/user-attachments/assets/e5c752e4-6590-496d-855d-7545a1579b86"> Hi, I'm Silvan, a programmer with a passion for coding, computers, and old technology.
+Visit me on the Web at: [www.silvanzwick.com](https://silvanzwick.com)
+<br />
+[![TheZwick32's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvanZwick&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanZwick&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<br /><br />
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,cs,css,discord,bots,express,fediverse,github,gmail,html,js,less,linux,md,mastodon,nodejs,npm,obsidian,powershell,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,vscode,webflow,windows&perline=14&theme=dark)](https://skillicons.dev)
 
 <!--
 **SilvanZwick/SilvanZwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
