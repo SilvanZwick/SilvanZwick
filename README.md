@@ -12,6 +12,6 @@ Visit me on the Web at: [www.silvanzwick.com](https://silvanzwick.com)
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,arduino,cs,css,discord,bots,express,fediverse,git,github,gmail,html,js,less,linux,md,mastodon,nodejs,npm,obsidian,powershell,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,vscode,webflow,windows&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=apple,arduino,cs,css,devto,discord,bots,express,fediverse,git,github,gmail,html,js,less,linux,md,mastodon,nodejs,npm,obsidian,powershell,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,vscode,webflow,windows&perline=14&theme=dark" />
   </a>
 </p>
